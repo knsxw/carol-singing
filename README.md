@@ -1,4 +1,4 @@
-# Gather & Sing
+# ABACIBC Carol Singing
 
 A Christmas carol songbook made from CarolSongsfinal.pdf, with all 13 songs in booklet order and transposable chord charts. Designed for phones, tablets, and laptops.
 
